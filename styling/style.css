@@ -17,4 +17,6 @@ font: 18px;
     text-align: center;
     font-size: 20px;
 } 
-
+.festback{
+    background-image: url(../images/festival.jpg)
+}
