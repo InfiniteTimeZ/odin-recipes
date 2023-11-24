@@ -47,7 +47,7 @@ section{
     background-color: tan;
     border: 7px solid;
     border-color: green;
-    margin: 40px;
+    margin: 70px;
 }
 .large{
     font-size: 50px;
@@ -66,4 +66,7 @@ h1{
 .inst{
     max-height: 3%;
     max-width: 3%;  
+}
+.move{
+    margin-left: 200px;
 }
