@@ -59,7 +59,7 @@ h1{
     border: 5px solid;
 
 }
-#main{
+.main{
     background-image: url(../images/thanks.jpg);
     background-size: 100%;
 }
