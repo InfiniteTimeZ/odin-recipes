@@ -1,2 +1,10 @@
 <a href="../index.html">Back</a>
-<link src="../images/Ice-cream.jpg">
+<img src="../images/Ice-cream.jpg" style="height: 26%">
+<ul>
+    <li>2 ¼ cups milk</li>
+    <li>1 cup heavy whipping cream</li>
+
+    <li>¾ cup white sugar</li>
+
+    <li>2 teaspoons vanilla extract</li>
+</ul>
