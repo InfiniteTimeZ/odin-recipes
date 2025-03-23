@@ -1,0 +1,99 @@
+.head{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#list{
+    list-style-type: none; 
+    border: solid black 3px;
+    border-radius: 12px;
+    background-color:cadetblue;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding:  1px;
+    text-align: center;
+    box-shadow: 0 0 2px black;
+
+}
+.flex-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.list-transform:hover{
+    background-color: gray;
+    box-shadow: 0 0 2px black;
+    border-radius: 50px;
+}
+
+.list-transform{
+    margin: 10px 20px;
+    background-color:cadetblue;
+    transition: 0.3s;
+    opacity: 0.6;
+    
+    
+}
+li button{
+    border:  none;
+    background:none;
+    padding: none;
+    margin: none;
+    font-size: 24px;;
+    width: 160px;
+    
+
+}
+.lasagna-div{
+    display: flex;
+    flex-direction: column;
+
+ }
+ #lasagna-img{
+    height: auto;
+    width: 400px;
+    padding: 20px;
+    background-color: gray;
+    background-image: linear-gradient(darkgray, gray);
+    box-shadow: 0 0 2px black;
+    border-radius: 10px;
+
+    
+ }
+ .recipe-img-div{
+    display: flex;
+    flex-direction: row;
+
+ }
+ .list-content{
+    margin-left: 20px;
+    margin-right: 100px;
+ }
+ body{
+    background: #d1e8d7;
+ }
+ .back-button{
+    font-size: 100px;
+    border:  none;
+    background:none;
+    padding: none;
+    margin: none;
+    font-size: 24px;;
+    width: 160px;
+    border-radius: 30px;
+    background-color: white;
+   
+    box-shadow: 0 0 2px black;
+    
+ }
+ .back-button:hover{
+    background-color: lightgray;
+    transition: 0.3s;
+    border-radius: 30px;
+    box-shadow: 0 0 2px black;
+   
+
+ }

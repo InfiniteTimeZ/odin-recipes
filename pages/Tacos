@@ -1,10 +1,29 @@
-<a href="../index.html">Back</a>
-<img src="../images/tacos.jpg" style="height: 26%">
-<ul>
-    <li>1 pound pollo para asar seasoned, boneless, skinless chicken</li>
-    <li>1 onion, diced</li>
 
-    <li>1/2 cup chopped cilantro</li>
 
-    <li>8 corn tortillasli>
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Foods</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <div class="lasagna-div">
+        <a  href="../index.html"><button class="back-button">Back</button></a>
+        <div class="recipe-img-div">
+            <ul>
+                <li>1 pound pollo para asar seasoned, boneless, skinless chicken</li>
+                <li>1 onion, diced</li>
+            
+                <li>1/2 cup chopped cilantro</li>
+            
+                <li>8 corn tortillasli</li>
+            </ul>
+            <img id="lasagna-img" src="../images/tacos.jpg">
+        </div>
+     
+       
+    </div>
+</body>
+</html>
